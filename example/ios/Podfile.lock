@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - null_message (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - null_message (from `.symlinks/plugins/null_message/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  null_message:
+    :path: ".symlinks/plugins/null_message/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  null_message: 73c48586fd22605a90ae636dba0771ede1b0a51f
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
